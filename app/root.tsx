@@ -51,7 +51,7 @@ export default function App() {
 	return (
 		<div>
 			<Navbar />
-			<div className="min-h-screen pb-16">
+			<div className="min-h-screen pb-16 pt-16">
 				<Outlet />
 			</div>
 			<Footer />
